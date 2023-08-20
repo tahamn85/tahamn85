@@ -30,4 +30,7 @@
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 </div>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
+
 
