@@ -25,6 +25,6 @@ I'm a web designer👨‍💻.<br>I'm a junior Python developer.<br>I'm a graphi
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tahamn85&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
